@@ -1,6 +1,3 @@
-# QFreedomQ.github.io
-# [你的中文名 / 英文名]
-
 👋 Hi there! I am **Liaopeng Hu**, a researcher  in **Computer Vision**. 
 ---
 
