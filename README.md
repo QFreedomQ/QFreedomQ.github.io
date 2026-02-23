@@ -3,7 +3,7 @@
 
 ### 📧 Contact Information
 - **Email**: 243370923@st.usst.edu.cn
-- **GitHub**: https://github.com/QFreedomQ
+- **GitHub**: https://github.com/QFreedomQ.github.io
 
 ---
 
